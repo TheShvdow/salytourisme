@@ -12,6 +12,10 @@ const nextConfig = {
       },
     ],
   },
+  // Allow dynamic routes to be rendered on-demand
+  experimental: {
+    missingSuspenseWithCSRBailout: false,
+  },
 };
 
 export default nextConfig;
