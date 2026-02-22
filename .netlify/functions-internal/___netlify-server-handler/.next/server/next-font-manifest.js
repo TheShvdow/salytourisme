@@ -1,1 +1,0 @@
-self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/home/deriss/Documents/mvp/salytourisme-app/app/layout":["static/media/e807dee2426166ad-s.p.woff2","static/media/eaead17c7dbfcd5d-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
